@@ -1,4 +1,4 @@
-![preview image for DB]([url](https://github.com/osamayy/azkar-db/blob/049e6f5487b8a0ce66b2605c443be9dda558646c/azkar-db.png) "صورة توضيحية لقاعدة البيانات")
+![preview image for DB](azkar-db.png) "صورة توضيحية لقاعدة البيانات")
 # azkar-db
  قاعدة بيانات/مجموعة بيانات تحتوي على الأدعية والأذكار والرقية 
 
