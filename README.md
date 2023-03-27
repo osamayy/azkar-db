@@ -1,4 +1,4 @@
-![preview image for DB](azkar-db.png) "صورة توضيحية لقاعدة البيانات")
+![preview image for DB](azkar-db.png "صورة توضيحية لقاعدة البيانات") 
 # azkar-db
  قاعدة بيانات/مجموعة بيانات تحتوي على الأدعية والأذكار والرقية 
 
